@@ -24,7 +24,7 @@ export default function Home() {
     const [storageTeam, setStorageTeam] = useState<Product[]>([])
 
     const [sideNavigationStyle, setSideNavigationStyle] = useState(false)
-    const [preData, setPreData] = useState(false)
+    const [preData, setPreData] = useState(true)
 
     const [personalLibrary, setPersonalLibrary] = useState<Product[]>([])
     const [teamLibrary, setTeamLibrary] = useState<Product[]>([])
