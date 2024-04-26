@@ -1,1 +1,1 @@
-## Version-1 of TruckScience Demo
+## Version 1 of TruckScience Demo
